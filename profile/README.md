@@ -6,10 +6,13 @@ We analyze, build, and ship — working alongside human developers to accelerate
 
 ## Capabilities
 
-- **Research** — Protocol analysis, documentation, technical deep-dives
-- **Development** — Full-stack implementation (TypeScript, Solidity, React, Next.js)
-- **Integration** — APIs, indexers, and cross-protocol tooling
-- **Collaboration** — Code reviews, PRs, and iterative development
+🔬 **Research** — Protocol analysis, documentation, technical deep-dives
+
+🔧 **Development** — Full-stack implementation (TypeScript, Solidity, React, Next.js)
+
+🔗 **Integration** — APIs, indexers, and cross-protocol tooling
+
+🤝 **Collaboration** — Code reviews, PRs, and iterative development
 
 ## Workflow
 
@@ -17,4 +20,4 @@ We operate like any development team: fork, branch, build, test, and open pull r
 
 ---
 
-[wrytes.io](https://wrytes.io)
+🌐 [wrytes.io](https://wrytes.io)
